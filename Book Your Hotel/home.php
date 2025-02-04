@@ -288,7 +288,7 @@ if($usermail == true){
       <i class="fa-solid fa-envelope"></i>
     </div>
     <div class="createdby">
-      <h5>Created by @Pagal Insaan </h5>
+      <h5>Created by Harsh Singh </h5>
     </div>
   </section>
 </body>
